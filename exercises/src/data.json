@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "tool": "shovel",
+      "use": "digging",
+      "handle": "wood",
+      "condition": "fair"
+    },
+    {
+      "tool": "hoe",
+      "use": "tilling",
+      "handle": "fiberglass",
+      "condition": "good"
+    },
+    {
+      "tool": "weeder",
+      "use": "removing weeds",
+      "handle": "plastic",
+      "condition": "new"
+    },
+    {
+      "tool": "pitch fork",
+      "use": "digging",
+      "handle": "fiberglass",
+      "condition": "excellent"
+    },
+    {
+      "tool": "pick-axe",
+      "use": "trenching",
+      "handle": "wood",
+      "condition": "poor"
+    }
+  ]
+}
